@@ -1,0 +1,11 @@
+.vscode
+configs
+data
+images_data/stars/Net_output
+images_data/stars/Tri_output
+logging
+logs
+models
+nerfpy39
+pytorch-meta
+recon
